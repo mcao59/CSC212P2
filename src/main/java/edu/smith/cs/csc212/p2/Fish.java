@@ -23,7 +23,8 @@ public class Fish extends WorldObject {
 			Color.blue,
 			Color.DARK_GRAY,
 			Color.MAGENTA,
-			Color.orange
+			Color.orange,
+			Color.pink
 			// TODO: (P2) Maybe make a special fish that is more points?
 	};
 	/**
