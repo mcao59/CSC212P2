@@ -31,7 +31,7 @@ public class PlayFish extends GFX {
 	/**
 	 * There's a border to make it look pretty (the board is inset by this much).
 	 */
-	public static int BORDER = 5;
+	public static int BORDER = 20;
 	/**
 	 * This is where the game logic lives.
 	 */
